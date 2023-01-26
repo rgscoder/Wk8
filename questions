@@ -1,0 +1,33 @@
+<!-- How do you make a Circle in CSS?
+
+Either by using the border-radius property and setting the value equal to 50%, or using the shape-outside property and setting the value equal to circle().
+
+
+What is Z-index?
+
+The z-index property affects positions of stacked elements by specifying the order.
+
+
+What is a Vendor Prefix and What is its purpose?
+
+Vendor prefixes are browser prefixes that support a browser by allowing it to have access to new/experimental CSS features. This allows users to use these prefixes without having to wait for the browser to be updated.
+
+
+What is the difference between CSS Grid and Flexbox?
+
+Flexbox is one dimensional while Grid is two dimensional. Grids focuses on the content position, and Flexbox focuses on content flow by aligning content and moving blocks.
+
+
+How might you Speed Up a Slow App? hint Google Lighthouse in Chrome Developer Tools....
+
+Using Lighthouse, an automated open-source tool used for improving the quality of your code, can help speed up a slow application by providing a list of recommendations on how to improve page performance, make pages more accessible, adhere to best practices and more.
+
+
+What is CRUD?
+
+Crud stands for create, read, update, and delete in regards to persistent storage and changing information using computer-based forms and reports.
+
+
+What is OOP?
+
+OOP stands for Object-Oriented Programming and is a procedural programming pattern that is built around objects or entities. -->
